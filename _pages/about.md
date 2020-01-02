@@ -1,6 +1,6 @@
 ----
 title: "About"
-permalink: /about/
+permalink: https://David-Yamin.github.io/about/
 header:
   image: "David-Yamin.github.io/sarasota_skyline.jpg"
 ----
