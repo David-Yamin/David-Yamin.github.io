@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "David Yamin"
-  avatar           : "David-Yamin.github.io/images/yamin_pic1.jpg"
+  avatar           : "/desktop/David-Yamin.github.io/images/yamin_pic1.jpg"
   bio              : "Data Science Portfolio"
   location         : "Sarasota, FL"
   email            : "dyamin.data.science@gmail.com"
